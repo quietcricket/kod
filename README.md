@@ -1,5 +1,5 @@
 # K-O-D
-Keynote On Diet
+Keynote On Diet: make keynote files smaller. [Download](https://github.com/quietcricket/kod/releases)
 
 ---
 * It's rediculous a keynote file with 5 slides takes up 100MB
