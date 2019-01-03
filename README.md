@@ -13,4 +13,5 @@ Keynote On Diet
 * Convert png files into jpg files
 * Resize big images into smaller
 ---
-* Enjoy
+* Made in OpenFrameworks
+* Only works in Mac
